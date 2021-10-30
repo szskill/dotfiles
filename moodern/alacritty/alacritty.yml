@@ -1,0 +1,15 @@
+font:
+    normal:
+        family: "Iosevka Nerd Font Mono"
+    size: 9
+
+
+window:
+    padding:
+        x: 24
+        y: 24
+
+colors:
+    primary:
+        background: "0x181818"
+        foreground: "0xC5C8C6"

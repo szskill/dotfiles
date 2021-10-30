@@ -1,0 +1,32 @@
+* {
+    bg: #181818;
+    fg: #C5C8C6;
+    
+    font: "Inter 12";
+    background-color: @bg;
+    color: @fg;
+}
+
+window {
+    padding: 1em;
+
+    width: 24em;
+    height: 32em;
+}
+
+prompt {
+    enabled: false;
+}
+
+entry {
+    padding: 16px 16px 16px 4px;
+}
+
+element {
+    padding: 6px;
+    border-radius: 2px;
+}
+
+element.selected {
+    background-color: #FFFFFF20;
+}
